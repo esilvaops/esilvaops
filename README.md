@@ -1,8 +1,14 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Eduardo Silva
+<p align="center">
+  <img src="./banner.png" alt="Banner esilvaops" width="100%">
+</p>
 
-### 🐧 Infraestrutura • Linux • Automação • DevOps • Cybersecurity
+<h1 align="center">Olá! Eu sou o Eduardo Silva 👋</h1>
+
+<p align="center">
+Infraestrutura • Linux • Automação • DevOps • Cybersecurity
+</p>
 
 > *"Automatizando infraestrutura, documentando conhecimento e aprendendo continuamente."*
 
