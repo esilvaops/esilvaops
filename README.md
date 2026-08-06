@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./banner.png" alt="Banner esilvaops" width="100%">
+  <img src="./new_banner.png" alt="Banner esilvaops" width="100%">
 </p>
 
 <h1 align="center">Olá! Eu sou o Eduardo Silva 👋</h1>
