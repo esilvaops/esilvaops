@@ -1,51 +1,63 @@
 <div align="center">
 
-# 👋 Hi, I'm Eduardo Silva
+# 👋 Olá! Eu sou o Eduardo Silva
 
-### Infrastructure Engineer • Linux • Automation • DevOps • Cybersecurity
+### 🐧 Infraestrutura • Linux • Automação • DevOps • Cybersecurity
 
-*"Building reliable infrastructure through automation and continuous learning."*
+> *"Automatizando infraestrutura, documentando conhecimento e aprendendo continuamente."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+Administrator;Infrastructure+Automation;Ansible+Enthusiast;Cybersecurity+Student;Building+my+Home+Lab"/>
+---
+
+Atualmente estou construindo um laboratório de infraestrutura inspirado em ambientes corporativos, onde estudo, documento e automatizo soluções utilizando tecnologias Open Source.
+
+Meu objetivo é desenvolver projetos reais, reproduzíveis e bem documentados, focados em Linux, Automação, Redes e Segurança da Informação.
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre mim
 
-I'm passionate about Infrastructure, Linux and Automation.
+Sou apaixonado por tecnologia e acredito que infraestrutura bem planejada deve ser automatizada, documentada e fácil de reproduzir.
 
-Currently I'm building a complete Home Lab focused on Infrastructure as Code, Automation and Cybersecurity using enterprise-inspired technologies.
+Hoje concentro meus estudos principalmente em:
 
-I enjoy documenting everything I build, making every project reproducible and easy to understand.
+* 🐧 Administração de sistemas Linux
+* ⚙️ Automação com Ansible
+* 🏗️ Infraestrutura
+* 🌐 Redes
+* 🔒 Segurança da Informação
+* ☁️ Virtualização com Proxmox VE
+
+Meu foco é transformar conhecimento em projetos práticos que possam servir como portfólio e também como material de estudo para outras pessoas.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tecnologias
 
-### Operating Systems
+## Sistemas Operacionais
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10-10B981?style=for-the-badge)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
+* Rocky Linux
+* Fedora
+* Ubuntu
+* Windows Server
 
-### Infrastructure
+## Infraestrutura
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
-![NetBox](https://img.shields.io/badge/NetBox-4CAF50?style=for-the-badge)
+* Proxmox VE
+* Active Directory
+* Docker
+* NetBox
+* pfSense
 
-### Automation
+## Automação
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+* Ansible
+* Bash
+* Git
+* GitHub
 
-### Currently Learning
+## Atualmente estudando
 
 * Kubernetes
 * Python
@@ -53,87 +65,86 @@ I enjoy documenting everything I build, making every project reproducible and ea
 * Grafana
 * Prometheus
 * Wazuh
-* Greenbone
-* Active Directory Automation
+* Greenbone/OpenVAS
 
 ---
 
-# 🖥️ Current Projects
+# 📂 Projetos em destaque
 
 ## 🚀 Rocky Provisioning
 
-Automated Rocky Linux provisioning using:
+Provisionamento automatizado do Rocky Linux utilizando:
 
 * PXE Boot
 * Kickstart
 * Ansible
-* GitHub
+
+Objetivos do projeto:
+
+* Zero Touch Provisioning
+* Provisionamento reproduzível
+* Configuração automática
+* Hardening
+* Documentação completa
 
 ---
 
 ## 🏠 Home Lab
 
-Building an enterprise-inspired infrastructure with:
+Meu laboratório pessoal é onde desenvolvo praticamente todos os estudos.
 
-* Proxmox VE
+Ele será composto por ambientes como:
+
 * Windows Server
-* Linux Servers
 * Active Directory
-* NetBox
-* Wazuh
+* Linux Servers
 * Docker
+* Wazuh
+* NetBox
+* Greenbone
+* Kubernetes
+
+Tudo executado sobre Proxmox VE.
 
 ---
 
-## 📈 GitHub Stats
+# 🎯 Objetivos para 2026
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=esilvaops&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esilvaops&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=esilvaops&theme=tokyonight&hide_border=true"/>
-
-</p>
+* Construir um Home Lab completo
+* Dominar Ansible
+* Evoluir em Linux Administration
+* Aprender Kubernetes
+* Desenvolver projetos de Infrastructure as Code
+* Aprimorar conhecimentos em Cybersecurity
 
 ---
 
-# 🎯 2026 Goals
+# 📖 Filosofia
 
-* Build a complete Home Lab
-* Master Ansible
-* Learn Kubernetes
-* Improve Python skills
-* Develop Infrastructure as Code projects
-* Contribute to Open Source
+> **Automatizar sempre que possível.**
 
----
+> **Documentar tudo o que for construído.**
 
-# 📚 Philosophy
+> **Aprender continuamente.**
 
-> Infrastructure should be reproducible.
-
-> Documentation is part of the project.
-
-> Automation saves time.
-
-> Never stop learning.
+> **Compartilhar conhecimento.**
 
 ---
+
+# 📊 Estatísticas
 
 <div align="center">
 
-### Thanks for visiting! 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esilvaops\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=esilvaops\&style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esilvaops\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
+
+---
+
+# 📫 Contato
+
+* GitHub: **@esilvaops**
+
+*(Em breve também disponível em inglês 🇺🇸.)*
